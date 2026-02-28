@@ -1,0 +1,11 @@
+uv run python ./dbn/main_stability.py \
+  --csv_path ./dbn/renew_inputs/inter_DBN_input.csv \
+  --output_dir ./dbn/results/k2/sa \
+  --order_l 2 \
+  --lasso_lam 0.01 \
+  --max_parents 3 \
+  --seeds 0 1 2 3 4 5 6 7 8 9 \
+  --sa_iter 5000 \
+  --n_workers 5 \
+  --thr_main 0.7 \
+  --thr_supp 0.6 0.8

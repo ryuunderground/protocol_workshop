@@ -1,0 +1,46 @@
+{
+  "train_a_expr": "../data/renew_inputs/short_input.csv",
+  "train_b_expr": "../data/renew_inputs/long_input.csv",
+  "test_expr": "../data/renew_inputs/inter_input.csv",
+  "edge_csvs": [
+    "../data/edges/results/short_dde_edges.csv",
+    "../data/edges/results/long_dde_edges.csv"
+  ],
+  "common_genes_count": 144,
+  "edges_count": 190,
+  "lags": [0, 1, 2],
+  "delta_mode": "median",
+  "delta_days": 7.0,
+  "tau_by_lag_days": {
+    "0": 0.0,
+    "1": 7.0,
+    "2": 14.0
+  },
+  "tau_max_days": 14.0,
+  "solver_cfg": {
+    "dt_frac_of_median_gap": 0.1,
+    "dt_max": 1.0,
+    "dt_min": 0.001,
+    "activation": "tanh",
+    "store_every_step": true,
+    "fixed_dt": 0.7000000000000001
+  },
+  "train_cfg": {
+    "lr_shared": 0.01,
+    "lr_hist": 0.01,
+    "epochs": 400,
+    "sigma": 1.0,
+    "M_hist": 12,
+    "grad_clip": 1.0,
+    "patience": 80
+  },
+  "test_cfg": {
+    "K_fit": 2,
+    "iters_hist": 800,
+    "lr_hist_test": 0.01,
+    "sigma": 1.0,
+    "M_hist": 12
+  },
+  "seeds": [0, 1, 2, 3, 4],
+  "gpu_ids": null
+}

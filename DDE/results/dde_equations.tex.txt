@@ -1,0 +1,290 @@
+% Automatically generated DDE system
+% dz_i(t)/dt equations
+
+\frac{d z_{ADAMDEC1}(t)}{dt} = - 0.1185 \, z_{ADAMDEC1}(t) + -0.2894 \, \tanh\!\left(z_{GPR15}(t - 14.00)\right) + 0.0437
+
+\frac{d z_{ADAMTS14}(t)}{dt} = - 0.3287 \, z_{ADAMTS14}(t) + 0.3222 \, \tanh\!\left(z_{RORA}(t - 14.00)\right) + -0.2308
+
+\frac{d z_{ADGRG3}(t)}{dt} = - 0.1796 \, z_{ADGRG3}(t) + 0.6031 \, \tanh\!\left(z_{LANCL3}(t - 7.00)\right) + -0.2108 \, \tanh\!\left(z_{NBL1}(t - 7.00)\right) + 0.6736
+
+\frac{d z_{AHDC1}(t)}{dt} = - 0.3530 \, z_{AHDC1}(t) + -0.0817 \, \tanh\!\left(z_{PML}(t)\right) + -0.1958 \, \tanh\!\left(z_{BEX2}(t - 14.00)\right) + -0.6189 \, \tanh\!\left(z_{JCHAIN}(t - 14.00)\right) + -0.1056
+
+\frac{d z_{ALPL}(t)}{dt} = - 0.2714 \, z_{ALPL}(t) + 0.9919 \, \tanh\!\left(z_{ORM1}(t - 14.00)\right) + 0.5998
+
+\frac{d z_{ANPEP}(t)}{dt} = - 0.1229 \, z_{ANPEP}(t) + 1.2227 \, \tanh\!\left(z_{NR6A1}(t - 14.00)\right) + -0.3376
+
+\frac{d z_{APOL2}(t)}{dt} = - 0.0666 \, z_{APOL2}(t) + -0.3335 \, \tanh\!\left(z_{BCL2L14}(t - 14.00)\right) + 0.0177 \, \tanh\!\left(z_{LANCL3}(t - 14.00)\right) + 0.7224
+
+\frac{d z_{APOL6}(t)}{dt} = - 0.1115 \, z_{APOL6}(t) + 1.0984 \, \tanh\!\left(z_{CABLES2}(t - 7.00)\right) + 0.3849
+
+\frac{d z_{AREG}(t)}{dt} = - 0.2433 \, z_{AREG}(t) + -1.5066 \, \tanh\!\left(z_{CYP4F22}(t - 7.00)\right) + -0.3753 \, \tanh\!\left(z_{ADAMTS14}(t - 14.00)\right) + 0.8305
+
+\frac{d z_{ARHGEF10}(t)}{dt} = - 0.1036 \, z_{ARHGEF10}(t) + -0.4516 \, \tanh\!\left(z_{SPDYA}(t - 7.00)\right) + 0.2055 \, \tanh\!\left(z_{AHDC1}(t - 14.00)\right) + -0.6847 \, \tanh\!\left(z_{FIGLA}(t - 14.00)\right) + 0.0456
+
+\frac{d z_{ATP9A}(t)}{dt} = - 0.1054 \, z_{ATP9A}(t) + 1.1171 \, \tanh\!\left(z_{CXCL6}(t - 14.00)\right) + -0.7985 \, \tanh\!\left(z_{DENND5B}(t - 14.00)\right) + 0.3360
+
+\frac{d z_{BCL2L14}(t)}{dt} = - 0.1439 \, z_{BCL2L14}(t) + 0.1256
+
+\frac{d z_{BEX2}(t)}{dt} = - 0.2046 \, z_{BEX2}(t) + 0.0827 \, \tanh\!\left(z_{ALPL}(t - 7.00)\right) + -0.2043
+
+\frac{d z_{BMX}(t)}{dt} = - 0.1351 \, z_{BMX}(t) + 0.7364 \, \tanh\!\left(z_{OAS1}(t - 14.00)\right) + 0.0655
+
+\frac{d z_{C1QA}(t)}{dt} = - 0.1264 \, z_{C1QA}(t) + 1.2556 \, \tanh\!\left(z_{CABLES2}(t - 7.00)\right) + 0.1051 \, \tanh\!\left(z_{JCHAIN}(t - 7.00)\right) + 0.0883 \, \tanh\!\left(z_{SLC16A1}(t - 7.00)\right) + -0.1791
+
+\frac{d z_{CABLES2}(t)}{dt} = - 0.2035 \, z_{CABLES2}(t) + -0.0387 \, \tanh\!\left(z_{GPR15}(t - 7.00)\right) + 0.0516
+
+\frac{d z_{CCR3}(t)}{dt} = - 0.4487 \, z_{CCR3}(t) + -0.6175 \, \tanh\!\left(z_{IL2RA}(t - 7.00)\right) + 0.9924
+
+\frac{d z_{CCR4}(t)}{dt} = - 0.3888 \, z_{CCR4}(t) + 0.3549 \, \tanh\!\left(z_{PDZD4}(t)\right) + -0.3000
+
+\frac{d z_{CDKN1C}(t)}{dt} = - 0.0806 \, z_{CDKN1C}(t) + 0.3496
+
+\frac{d z_{CHRNE}(t)}{dt} = - 0.3147 \, z_{CHRNE}(t) + -0.4540 \, \tanh\!\left(z_{OLFM4}(t)\right) + -0.1699 \, \tanh\!\left(z_{RORA}(t - 7.00)\right) + -0.0896 \, \tanh\!\left(z_{BEX2}(t - 14.00)\right) + 1.0921 \, \tanh\!\left(z_{RSAD2}(t - 14.00)\right) + -0.3101
+
+\frac{d z_{CLC}(t)}{dt} = - 0.1605 \, z_{CLC}(t) + -0.6532 \, \tanh\!\left(z_{ZFPM2}(t)\right) + 0.7601
+
+\frac{d z_{CLDN7}(t)}{dt} = - 0.0455 \, z_{CLDN7}(t) + -0.1358 \, \tanh\!\left(z_{HMGN3}(t)\right) + 0.0690
+
+\frac{d z_{CLNK}(t)}{dt} = - 0.0681 \, z_{CLNK}(t) + 0.4352 \, \tanh\!\left(z_{RSAD2}(t - 7.00)\right) + -0.2567 \, \tanh\!\left(z_{ADAMDEC1}(t - 7.00)\right) + 0.2554 \, \tanh\!\left(z_{IGHM}(t - 7.00)\right) + -0.2313
+
+\frac{d z_{CLTCL1}(t)}{dt} = - 0.4708 \, z_{CLTCL1}(t) + 0.5935
+
+\frac{d z_{COL11A1}(t)}{dt} = - 0.0384 \, z_{COL11A1}(t) + 0.0723 \, \tanh\!\left(z_{CLC}(t - 14.00)\right) + 0.1799 \, \tanh\!\left(z_{JCHAIN}(t - 14.00)\right) + 0.2066
+
+\frac{d z_{CPA3}(t)}{dt} = - 0.2553 \, z_{CPA3}(t) + -1.2971 \, \tanh\!\left(z_{ARHGEF10}(t - 7.00)\right) + 0.5818
+
+\frac{d z_{CRISPLD2}(t)}{dt} = - 0.0944 \, z_{CRISPLD2}(t) + 0.6804
+
+\frac{d z_{CSGALNACT1}(t)}{dt} = - 0.2194 \, z_{CSGALNACT1}(t) + 0.6735 \, \tanh\!\left(z_{FAM167B}(t - 14.00)\right) + 0.4594 \, \tanh\!\left(z_{PAK3}(t - 14.00)\right) + 0.1189
+
+\frac{d z_{CST7}(t)}{dt} = - 0.0532 \, z_{CST7}(t) + 0.1382 \, \tanh\!\left(z_{TRPM2}(t)\right) + -0.4314 \, \tanh\!\left(z_{FOSB}(t - 7.00)\right) + 0.6268 \, \tanh\!\left(z_{RORA}(t - 14.00)\right) + -0.0216
+
+\frac{d z_{CTLA4}(t)}{dt} = - 0.2579 \, z_{CTLA4}(t) + 0.2126 \, \tanh\!\left(z_{SLC16A1}(t - 7.00)\right) + -0.1535 \, \tanh\!\left(z_{AREG}(t - 14.00)\right) + -0.1212 \, \tanh\!\left(z_{LAPTM4B}(t - 14.00)\right) + 0.2994
+
+\frac{d z_{CXCL6}(t)}{dt} = - 0.3985 \, z_{CXCL6}(t) + -0.5091 \, \tanh\!\left(z_{U3}(t - 7.00)\right) + 0.3553
+
+\frac{d z_{CYP4F22}(t)}{dt} = - 0.4760 \, z_{CYP4F22}(t) + 0.2514
+
+\frac{d z_{DDB1}(t)}{dt} = - 0.3694 \, z_{DDB1}(t) + -0.0858 \, \tanh\!\left(z_{ADAMTS14}(t - 14.00)\right) + 0.1580
+
+\frac{d z_{DDX60}(t)}{dt} = - 0.1073 \, z_{DDX60}(t) + 0.6069 \, \tanh\!\left(z_{ISG15}(t)\right) + 0.6810 \, \tanh\!\left(z_{IFI44L}(t)\right) + -0.2602
+
+\frac{d z_{DENND5B}(t)}{dt} = - 0.2688 \, z_{DENND5B}(t) + -0.1359 \, \tanh\!\left(z_{FBXO39}(t - 7.00)\right) + -0.2581 \, \tanh\!\left(z_{SPP1}(t - 7.00)\right) + -0.1803
+
+\frac{d z_{DHX58}(t)}{dt} = - 0.0788 \, z_{DHX58}(t) + 0.6127 \, \tanh\!\left(z_{HSH2D}(t)\right) + -0.0241
+
+\frac{d z_{DLG5}(t)}{dt} = - 0.0328 \, z_{DLG5}(t) + -0.1393 \, \tanh\!\left(z_{NBL1}(t - 7.00)\right) + 0.0541
+
+\frac{d z_{DSCC1}(t)}{dt} = - 0.2838 \, z_{DSCC1}(t) + -0.9463 \, \tanh\!\left(z_{DDB1}(t - 7.00)\right) + -0.0318 \, \tanh\!\left(z_{CXCL6}(t - 7.00)\right) + 0.7054
+
+\frac{d z_{DYSF}(t)}{dt} = - 0.0859 \, z_{DYSF}(t) + 0.6622
+
+\frac{d z_{EIF2AK2}(t)}{dt} = - 0.1289 \, z_{EIF2AK2}(t) + 0.7878 \, \tanh\!\left(z_{RORA}(t - 7.00)\right) + 0.1805
+
+\frac{d z_{ENTPD3}(t)}{dt} = - 0.2936 \, z_{ENTPD3}(t) + 1.2383 \, \tanh\!\left(z_{PGLYRP1}(t)\right) + -0.5238 \, \tanh\!\left(z_{NBL1}(t - 7.00)\right) + 0.0807
+
+\frac{d z_{EPX}(t)}{dt} = - 0.0473 \, z_{EPX}(t) + 0.4176 \, \tanh\!\left(z_{CLDN7}(t)\right) + -0.1285
+
+\frac{d z_{EQTN}(t)}{dt} = - 0.1672 \, z_{EQTN}(t) + -0.2179
+
+\frac{d z_{EREG}(t)}{dt} = - 0.2513 \, z_{EREG}(t) + 0.6493 \, \tanh\!\left(z_{AREG}(t)\right) + 0.7027
+
+\frac{d z_{FADS3}(t)}{dt} = - 0.4262 \, z_{FADS3}(t) + -0.4338 \, \tanh\!\left(z_{NGFR}(t - 7.00)\right) + 0.0430
+
+\frac{d z_{FAM167B}(t)}{dt} = - 0.2907 \, z_{FAM167B}(t) + 0.5031 \, \tanh\!\left(z_{LGALS3BP}(t - 14.00)\right) + 0.0671
+
+\frac{d z_{FAM185A}(t)}{dt} = - 0.1440 \, z_{FAM185A}(t) + 0.2720
+
+\frac{d z_{FAM216B}(t)}{dt} = - 0.0475 \, z_{FAM216B}(t) + 0.3097 \, \tanh\!\left(z_{EIF2AK2}(t)\right) + -0.1110
+
+\frac{d z_{FBLN2}(t)}{dt} = - 0.0245 \, z_{FBLN2}(t) + -0.4695 \, \tanh\!\left(z_{NR6A1}(t)\right) + 0.2203
+
+\frac{d z_{FBXO39}(t)}{dt} = - 0.2645 \, z_{FBXO39}(t) + 0.0534 \, \tanh\!\left(z_{RORA}(t - 7.00)\right) + -0.9867 \, \tanh\!\left(z_{BEX2}(t - 14.00)\right) + -0.0216
+
+\frac{d z_{FGFBP2}(t)}{dt} = - 0.0791 \, z_{FGFBP2}(t) + 0.2395
+
+\frac{d z_{FIGLA}(t)}{dt} = - 0.3460 \, z_{FIGLA}(t) + 0.2441 \, \tanh\!\left(z_{ORM1}(t)\right) + -0.4128 \, \tanh\!\left(z_{GBP7}(t - 14.00)\right) + 0.0497
+
+\frac{d z_{FLT1}(t)}{dt} = - 0.3966 \, z_{FLT1}(t) + -0.1824 \, \tanh\!\left(z_{ATP9A}(t)\right) + 1.0064 \, \tanh\!\left(z_{MARCO}(t)\right) + -0.2393
+
+\frac{d z_{FOSB}(t)}{dt} = - 0.3813 \, z_{FOSB}(t) + 0.5037 \, \tanh\!\left(z_{FAM185A}(t - 14.00)\right) + 1.1358 \, \tanh\!\left(z_{CYP4F22}(t - 14.00)\right) + 0.1466
+
+\frac{d z_{FZD4}(t)}{dt} = - 0.0194 \, z_{FZD4}(t) + -0.0171 \, \tanh\!\left(z_{NBL1}(t - 14.00)\right) + -0.0452
+
+\frac{d z_{GBP3}(t)}{dt} = - 0.0755 \, z_{GBP3}(t) + -0.9083 \, \tanh\!\left(z_{PRSS33}(t - 7.00)\right) + 0.8435
+
+\frac{d z_{GBP7}(t)}{dt} = - 0.1721 \, z_{GBP7}(t) + -0.2012 \, \tanh\!\left(z_{TMPRSS2}(t - 7.00)\right) + -0.6865 \, \tanh\!\left(z_{EQTN}(t - 7.00)\right) + 0.7311 \, \tanh\!\left(z_{FAM185A}(t - 14.00)\right) + 0.4618
+
+\frac{d z_{GLI1}(t)}{dt} = - 0.3322 \, z_{GLI1}(t) + -0.2497 \, \tanh\!\left(z_{RNF182}(t)\right) + 0.1753 \, \tanh\!\left(z_{JCHAIN}(t - 7.00)\right) + -0.0416 \, \tanh\!\left(z_{ADAMTS14}(t - 14.00)\right) + -0.0473
+
+\frac{d z_{GPR15}(t)}{dt} = - 0.0458 \, z_{GPR15}(t) + -0.0958
+
+\frac{d z_{GZMB}(t)}{dt} = - 0.0979 \, z_{GZMB}(t) + 0.2334 \, \tanh\!\left(z_{ADAMDEC1}(t - 14.00)\right) + 0.5558
+
+\frac{d z_{HERC5}(t)}{dt} = - 0.1623 \, z_{HERC5}(t) + 1.1003 \, \tanh\!\left(z_{CLC}(t - 14.00)\right) + 0.7301 \, \tanh\!\left(z_{IGHM}(t - 14.00)\right) + 0.0276
+
+\frac{d z_{HMGN3}(t)}{dt} = - 0.1182 \, z_{HMGN3}(t) + 0.2780 \, \tanh\!\left(z_{FAM167B}(t - 14.00)\right) + -0.1907
+
+\frac{d z_{HSH2D}(t)}{dt} = - 0.0568 \, z_{HSH2D}(t) + 0.3154
+
+\frac{d z_{IFI27}(t)}{dt} = - 0.0943 \, z_{IFI27}(t) + 0.8211
+
+\frac{d z_{IFI44}(t)}{dt} = - 0.0527 \, z_{IFI44}(t) + 0.5053
+
+\frac{d z_{IFI44L}(t)}{dt} = - 0.1552 \, z_{IFI44L}(t) + 0.7876 \, \tanh\!\left(z_{CLC}(t - 14.00)\right) + 0.5382
+
+\frac{d z_{IFI6}(t)}{dt} = - 0.0667 \, z_{IFI6}(t) + 0.7319
+
+\frac{d z_{IFIT2}(t)}{dt} = - 0.0943 \, z_{IFIT2}(t) + 1.0031 \, \tanh\!\left(z_{ISG15}(t)\right) + 0.0203
+
+\frac{d z_{IFIT3}(t)}{dt} = - 0.1678 \, z_{IFIT3}(t) + 0.4399 \, \tanh\!\left(z_{USP18}(t)\right) + 1.1512 \, \tanh\!\left(z_{HERC5}(t)\right) + -0.0641 \, \tanh\!\left(z_{ZFPM2}(t - 14.00)\right) + 0.3420
+
+\frac{d z_{IGHM}(t)}{dt} = - 0.2796 \, z_{IGHM}(t) + 0.1863 \, \tanh\!\left(z_{IL18RAP}(t - 14.00)\right) + -0.0638 \, \tanh\!\left(z_{NR2E1}(t - 14.00)\right) + -0.0369
+
+\frac{d z_{IL18R1}(t)}{dt} = - 0.0843 \, z_{IL18R1}(t) + 0.5424
+
+\frac{d z_{IL18RAP}(t)}{dt} = - 0.1668 \, z_{IL18RAP}(t) + 0.9629 \, \tanh\!\left(z_{MCEMP1}(t)\right) + -0.3145 \, \tanh\!\left(z_{NBL1}(t - 14.00)\right) + 0.8493 \, \tanh\!\left(z_{LANCL3}(t - 14.00)\right) + -0.0608
+
+\frac{d z_{IL2RA}(t)}{dt} = - 0.0047 \, z_{IL2RA}(t) + 0.0350
+
+\frac{d z_{IRF7}(t)}{dt} = - 0.1564 \, z_{IRF7}(t) + 0.9142 \, \tanh\!\left(z_{FAM167B}(t - 14.00)\right) + 0.0673 \, \tanh\!\left(z_{ZFPM2}(t - 14.00)\right) + 0.1405
+
+\frac{d z_{ISG15}(t)}{dt} = - 0.0985 \, z_{ISG15}(t) + 0.1724 \, \tanh\!\left(z_{IFI44}(t)\right) + 0.7652 \, \tanh\!\left(z_{RORA}(t - 7.00)\right) + -0.0973
+
+\frac{d z_{JCHAIN}(t)}{dt} = - 0.2091 \, z_{JCHAIN}(t) + -0.3344 \, \tanh\!\left(z_{FAM185A}(t - 14.00)\right) + 0.1418
+
+\frac{d z_{KCNH7}(t)}{dt} = - 0.4771 \, z_{KCNH7}(t) + -0.3295
+
+\frac{d z_{KCNMA1}(t)}{dt} = - 0.0819 \, z_{KCNMA1}(t) + 0.0176 \, \tanh\!\left(z_{ARHGEF10}(t - 14.00)\right) + 0.0086
+
+\frac{d z_{KCTD14}(t)}{dt} = - 0.3576 \, z_{KCTD14}(t) + 1.3638 \, \tanh\!\left(z_{RORA}(t - 7.00)\right) + -0.5958
+
+\frac{d z_{LANCL3}(t)}{dt} = - 0.1482 \, z_{LANCL3}(t) + -0.1001 \, \tanh\!\left(z_{NBL1}(t - 7.00)\right) + 0.0781 \, \tanh\!\left(z_{MMP10}(t - 7.00)\right) + -0.0253
+
+\frac{d z_{LAPTM4B}(t)}{dt} = - 0.2390 \, z_{LAPTM4B}(t) + -0.2517 \, \tanh\!\left(z_{FZD4}(t - 7.00)\right) + 0.2400
+
+\frac{d z_{LEPR}(t)}{dt} = - 0.0745 \, z_{LEPR}(t) + 0.5273 \, \tanh\!\left(z_{GPR15}(t - 14.00)\right) + -1.0100 \, \tanh\!\left(z_{IGHM}(t - 14.00)\right) + 1.0555
+
+\frac{d z_{LGALS3BP}(t)}{dt} = - 0.2634 \, z_{LGALS3BP}(t) + 1.0171 \, \tanh\!\left(z_{RNF213}(t)\right) + -0.5468 \, \tanh\!\left(z_{BEX2}(t - 14.00)\right) + -0.0019
+
+\frac{d z_{LYPD8}(t)}{dt} = - 0.0455 \, z_{LYPD8}(t) + -0.3393 \, \tanh\!\left(z_{BMX}(t)\right) + 0.5315 \, \tanh\!\left(z_{RORA}(t - 14.00)\right) + -0.0605
+
+\frac{d z_{MARCO}(t)}{dt} = - 0.0765 \, z_{MARCO}(t) + 1.0341 \, \tanh\!\left(z_{KCNMA1}(t - 7.00)\right) + 0.2466 \, \tanh\!\left(z_{ARHGEF10}(t - 14.00)\right) + -0.1865
+
+\frac{d z_{MCEMP1}(t)}{dt} = - 0.0890 \, z_{MCEMP1}(t) + 0.5327
+
+\frac{d z_{MMP1}(t)}{dt} = - 0.1244 \, z_{MMP1}(t) + 0.3373 \, \tanh\!\left(z_{MMP10}(t)\right) + 0.4496 \, \tanh\!\left(z_{GBP7}(t - 14.00)\right) + -0.1315
+
+\frac{d z_{MMP10}(t)}{dt} = - 0.4190 \, z_{MMP10}(t) + 0.8482 \, \tanh\!\left(z_{LANCL3}(t - 7.00)\right) + 0.1257
+
+\frac{d z_{MMP8}(t)}{dt} = - 0.1911 \, z_{MMP8}(t) + 1.2754 \, \tanh\!\left(z_{ADAMDEC1}(t - 7.00)\right) + -0.5247
+
+\frac{d z_{MMP9}(t)}{dt} = - 0.1093 \, z_{MMP9}(t) + 0.9066 \, \tanh\!\left(z_{TRIM6}(t - 7.00)\right) + 0.0757
+
+\frac{d z_{MT-ND2}(t)}{dt} = - 0.1159 \, z_{MT-ND2}(t) + -0.9840 \, \tanh\!\left(z_{DDB1}(t - 7.00)\right) + -0.0157 \, \tanh\!\left(z_{KCTD14}(t - 7.00)\right) + 0.3404
+
+\frac{d z_{MX1}(t)}{dt} = - 0.0751 \, z_{MX1}(t) + 1.0703 \, \tanh\!\left(z_{ISG15}(t)\right) + -0.1197 \, \tanh\!\left(z_{MX2}(t)\right) + -0.1565
+
+\frac{d z_{MX2}(t)}{dt} = - 0.0988 \, z_{MX2}(t) + 0.7535 \, \tanh\!\left(z_{XAF1}(t)\right) + 0.5201 \, \tanh\!\left(z_{FAM185A}(t - 14.00)\right) + -0.3109
+
+\frac{d z_{Metazoa_SRP}(t)}{dt} = - 0.1013 \, z_{Metazoa_SRP}(t) + 0.0688 \, \tanh\!\left(z_{DENND5B}(t - 14.00)\right) + 0.1871
+
+\frac{d z_{NBL1}(t)}{dt} = - 0.0658 \, z_{NBL1}(t) + 0.4669 \, \tanh\!\left(z_{CTLA4}(t - 14.00)\right) + -0.4266
+
+\frac{d z_{NGFR}(t)}{dt} = - 0.3286 \, z_{NGFR}(t) + 0.2603
+
+\frac{d z_{NR2E1}(t)}{dt} = - 0.3010 \, z_{NR2E1}(t) + -0.1438 \, \tanh\!\left(z_{AREG}(t - 14.00)\right) + 0.3284 \, \tanh\!\left(z_{CXCL6}(t - 14.00)\right) + -0.2968 \, \tanh\!\left(z_{RORA}(t - 14.00)\right) + -0.6584 \, \tanh\!\left(z_{FIGLA}(t - 14.00)\right) + 0.6980 \, \tanh\!\left(z_{KCTD14}(t - 14.00)\right) + -0.1052
+
+\frac{d z_{NR6A1}(t)}{dt} = - 0.4794 \, z_{NR6A1}(t) + 0.0196 \, \tanh\!\left(z_{CYP4F22}(t)\right) + 0.2041
+
+\frac{d z_{OAS1}(t)}{dt} = - 0.2358 \, z_{OAS1}(t) + 1.0710 \, \tanh\!\left(z_{RORA}(t - 7.00)\right) + 0.6556 \, \tanh\!\left(z_{FAM216B}(t - 7.00)\right) + 0.3273
+
+\frac{d z_{OAS2}(t)}{dt} = - 0.0696 \, z_{OAS2}(t) + 0.6718
+
+\frac{d z_{OAS3}(t)}{dt} = - 0.1235 \, z_{OAS3}(t) + 0.9671 \, \tanh\!\left(z_{RORA}(t - 7.00)\right) + 0.0866
+
+\frac{d z_{OASL}(t)}{dt} = - 0.2151 \, z_{OASL}(t) + 0.6517 \, \tanh\!\left(z_{RORA}(t - 7.00)\right) + 0.0100 \, \tanh\!\left(z_{FGFBP2}(t - 7.00)\right) + -0.2978 \, \tanh\!\left(z_{BEX2}(t - 14.00)\right) + 0.8910
+
+\frac{d z_{OLFM4}(t)}{dt} = - 0.0214 \, z_{OLFM4}(t) + -0.3081 \, \tanh\!\left(z_{VNN2}(t)\right) + 0.8169 \, \tanh\!\left(z_{ADAMDEC1}(t - 7.00)\right) + -0.2979
+
+\frac{d z_{ORM1}(t)}{dt} = - 0.1054 \, z_{ORM1}(t) + 0.4271
+
+\frac{d z_{PAK3}(t)}{dt} = - 0.0611 \, z_{PAK3}(t) + 0.1612
+
+\frac{d z_{PCDH1}(t)}{dt} = - 0.0560 \, z_{PCDH1}(t) + 0.1805
+
+\frac{d z_{PDZD4}(t)}{dt} = - 0.0266 \, z_{PDZD4}(t) + 0.2026 \, \tanh\!\left(z_{NBL1}(t - 14.00)\right) + 0.0989
+
+\frac{d z_{PGLYRP1}(t)}{dt} = - 0.1269 \, z_{PGLYRP1}(t) + 0.2926 \, \tanh\!\left(z_{DYSF}(t)\right) + 1.2462 \, \tanh\!\left(z_{GLI1}(t - 14.00)\right) + 0.2075
+
+\frac{d z_{PLAU}(t)}{dt} = - 0.1438 \, z_{PLAU}(t) + 0.4473
+
+\frac{d z_{PLCD3}(t)}{dt} = - 0.2676 \, z_{PLCD3}(t) + 0.7204 \, \tanh\!\left(z_{DLG5}(t)\right) + 0.8388 \, \tanh\!\left(z_{RORA}(t - 7.00)\right) + 0.4231 \, \tanh\!\left(z_{LANCL3}(t - 7.00)\right) + -0.7503 \, \tanh\!\left(z_{FAM185A}(t - 14.00)\right) + -0.0824
+
+\frac{d z_{PML}(t)}{dt} = - 0.2377 \, z_{PML}(t) + 0.9601 \, \tanh\!\left(z_{RORA}(t - 7.00)\right) + 0.0228
+
+\frac{d z_{PRF1}(t)}{dt} = - 0.0819 \, z_{PRF1}(t) + 0.3938
+
+\frac{d z_{PRSS33}(t)}{dt} = - 0.3446 \, z_{PRSS33}(t) + -0.1998 \, \tanh\!\left(z_{C1QA}(t - 7.00)\right) + -0.0738 \, \tanh\!\left(z_{AREG}(t - 14.00)\right) + 0.0228 \, \tanh\!\left(z_{LANCL3}(t - 14.00)\right) + 0.2267
+
+\frac{d z_{RIGI}(t)}{dt} = - 0.1677 \, z_{RIGI}(t) + 0.9242 \, \tanh\!\left(z_{RORA}(t - 7.00)\right) + 0.6358
+
+\frac{d z_{RNF182}(t)}{dt} = - 0.0826 \, z_{RNF182}(t) + 0.0066 \, \tanh\!\left(z_{FAM185A}(t - 7.00)\right) + 0.0251 \, \tanh\!\left(z_{ARHGEF10}(t - 14.00)\right) + -0.0819
+
+\frac{d z_{RNF213}(t)}{dt} = - 0.0504 \, z_{RNF213}(t) + 0.6083
+
+\frac{d z_{RNU6-1188P}(t)}{dt} = - 0.4738 \, z_{RNU6-1188P}(t) + 0.0695
+
+\frac{d z_{RORA}(t)}{dt} = - 0.2047 \, z_{RORA}(t) + -0.9454 \, \tanh\!\left(z_{BEX2}(t - 7.00)\right) + 0.4098 \, \tanh\!\left(z_{BMX}(t - 14.00)\right) + 0.3936 \, \tanh\!\left(z_{NBL1}(t - 14.00)\right) + -0.0358
+
+\frac{d z_{RSAD2}(t)}{dt} = - 0.2255 \, z_{RSAD2}(t) + 0.5337 \, \tanh\!\left(z_{TRDC}(t - 7.00)\right) + 0.6029 \, \tanh\!\left(z_{RORA}(t - 7.00)\right) + 0.9790 \, \tanh\!\left(z_{TRDC}(t - 14.00)\right) + 0.3337 \, \tanh\!\left(z_{FADS3}(t - 14.00)\right) + 0.0124
+
+\frac{d z_{S100A12}(t)}{dt} = - 0.1231 \, z_{S100A12}(t) + 0.4322 \, \tanh\!\left(z_{S100A8}(t)\right) + 0.0820
+
+\frac{d z_{S100A8}(t)}{dt} = - 0.0723 \, z_{S100A8}(t) + 0.8210
+
+\frac{d z_{S100A9}(t)}{dt} = - 0.1170 \, z_{S100A9}(t) + 0.5299 \, \tanh\!\left(z_{S100A8}(t)\right) + 0.8420 \, \tanh\!\left(z_{XAF1}(t - 7.00)\right) + 0.1647
+
+\frac{d z_{SIGLEC1}(t)}{dt} = - 0.1028 \, z_{SIGLEC1}(t) + 0.8496 \, \tanh\!\left(z_{APOL6}(t - 7.00)\right) + -0.3255
+
+\frac{d z_{SIK1}(t)}{dt} = - 0.3555 \, z_{SIK1}(t) + 1.2606 \, \tanh\!\left(z_{ISG15}(t - 14.00)\right) + 0.6171
+
+\frac{d z_{SLC16A1}(t)}{dt} = - 0.1231 \, z_{SLC16A1}(t) + 0.6807 \, \tanh\!\left(z_{FAM185A}(t - 14.00)\right) + 0.4509 \, \tanh\!\left(z_{ADAMTS14}(t - 14.00)\right) + 0.2142
+
+\frac{d z_{SPDYA}(t)}{dt} = - 0.4674 \, z_{SPDYA}(t) + 0.0576
+
+\frac{d z_{SPP1}(t)}{dt} = - 0.0121 \, z_{SPP1}(t) + 0.1035
+
+\frac{d z_{TENM1}(t)}{dt} = - 0.0501 \, z_{TENM1}(t) + -0.0844 \, \tanh\!\left(z_{IGHM}(t - 14.00)\right) + 0.1510
+
+\frac{d z_{TMPRSS2}(t)}{dt} = - 0.1535 \, z_{TMPRSS2}(t) + 0.9882 \, \tanh\!\left(z_{RORA}(t - 7.00)\right) + -0.4863
+
+\frac{d z_{TP53I11}(t)}{dt} = - 0.0698 \, z_{TP53I11}(t) + 1.4161 \, \tanh\!\left(z_{DDB1}(t - 7.00)\right) + -0.2839
+
+\frac{d z_{TRDC}(t)}{dt} = - 0.1203 \, z_{TRDC}(t) + 0.1273 \, \tanh\!\left(z_{CLC}(t - 7.00)\right) + 0.3150
+
+\frac{d z_{TRIM14}(t)}{dt} = - 0.1985 \, z_{TRIM14}(t) + -0.0026 \, \tanh\!\left(z_{DHX58}(t)\right) + 0.9892 \, \tanh\!\left(z_{RORA}(t - 7.00)\right) + -0.0366 \, \tanh\!\left(z_{FAM216B}(t - 7.00)\right) + -0.0673
+
+\frac{d z_{TRIM6}(t)}{dt} = - 0.0724 \, z_{TRIM6}(t) + 0.2826 \, \tanh\!\left(z_{HSH2D}(t)\right) + -0.0195
+
+\frac{d z_{TRPM2}(t)}{dt} = - 0.0868 \, z_{TRPM2}(t) + 0.4781
+
+\frac{d z_{U3}(t)}{dt} = - 0.1651 \, z_{U3}(t) + 0.0358 \, \tanh\!\left(z_{GZMB}(t)\right) + 0.9372 \, \tanh\!\left(z_{CABLES2}(t - 14.00)\right) + -0.0037
+
+\frac{d z_{UBALD1}(t)}{dt} = - 0.4482 \, z_{UBALD1}(t) + -0.1885
+
+\frac{d z_{USP18}(t)}{dt} = - 0.2146 \, z_{USP18}(t) + -0.7943 \, \tanh\!\left(z_{BEX2}(t - 14.00)\right) + 0.6744
+
+\frac{d z_{VNN1}(t)}{dt} = - 0.0737 \, z_{VNN1}(t) + -0.0553 \, \tanh\!\left(z_{NBL1}(t - 7.00)\right) + -0.1234 \, \tanh\!\left(z_{FZD4}(t - 7.00)\right) + 0.1937
+
+\frac{d z_{VNN2}(t)}{dt} = - 0.1259 \, z_{VNN2}(t) + 1.1642 \, \tanh\!\left(z_{LGALS3BP}(t - 7.00)\right) + -0.0420
+
+\frac{d z_{XAF1}(t)}{dt} = - 0.0848 \, z_{XAF1}(t) + 1.0310 \, \tanh\!\left(z_{IFI27}(t)\right) + -0.9684 \, \tanh\!\left(z_{OASL}(t)\right) + 0.5697
+
+\frac{d z_{YEATS4}(t)}{dt} = - 0.1288 \, z_{YEATS4}(t) + 0.1075 \, \tanh\!\left(z_{ADAMTS14}(t - 7.00)\right) + -0.6737 \, \tanh\!\left(z_{BEX2}(t - 14.00)\right) + 0.2765 \, \tanh\!\left(z_{RORA}(t - 14.00)\right) + 1.7103 \, \tanh\!\left(z_{FADS3}(t - 14.00)\right) + 0.2883
+
+\frac{d z_{YES1}(t)}{dt} = - 0.4663 \, z_{YES1}(t) + 0.2081
+
+\frac{d z_{ZFPM2}(t)}{dt} = - 0.3376 \, z_{ZFPM2}(t) + 0.2120 \, \tanh\!\left(z_{CDKN1C}(t - 14.00)\right) + 0.0005
+
+\frac{d z_{ZNF850}(t)}{dt} = - 0.3991 \, z_{ZNF850}(t) + -0.1619

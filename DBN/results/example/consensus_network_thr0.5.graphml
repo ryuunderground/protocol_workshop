@@ -1,0 +1,990 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="lag" attr.type="long" />
+  <graph edgedefault="directed">
+    <node id="ADAMDEC1" />
+    <node id="ADAMTS14" />
+    <node id="ADGRG3" />
+    <node id="AHDC1" />
+    <node id="ALPL" />
+    <node id="ANPEP" />
+    <node id="APOL2" />
+    <node id="APOL6" />
+    <node id="AREG" />
+    <node id="ARHGEF10" />
+    <node id="ATP9A" />
+    <node id="BCL2L14" />
+    <node id="BEX2" />
+    <node id="BMX" />
+    <node id="C1QA" />
+    <node id="CABLES2" />
+    <node id="CCR3" />
+    <node id="CCR4" />
+    <node id="CDKN1C" />
+    <node id="CHRNE" />
+    <node id="CLC" />
+    <node id="CLDN7" />
+    <node id="CLNK" />
+    <node id="CLTCL1" />
+    <node id="COL11A1" />
+    <node id="CPA3" />
+    <node id="CRISPLD2" />
+    <node id="CSGALNACT1" />
+    <node id="CST7" />
+    <node id="CTLA4" />
+    <node id="CXCL6" />
+    <node id="CYP4F22" />
+    <node id="DDB1" />
+    <node id="DDX60" />
+    <node id="DENND5B" />
+    <node id="DHX58" />
+    <node id="DLG5" />
+    <node id="DSCC1" />
+    <node id="DYSF" />
+    <node id="EIF2AK2" />
+    <node id="ENTPD3" />
+    <node id="EPX" />
+    <node id="EQTN" />
+    <node id="EREG" />
+    <node id="FADS3" />
+    <node id="FAM167B" />
+    <node id="FAM185A" />
+    <node id="FAM216B" />
+    <node id="FBLN2" />
+    <node id="FBXO39" />
+    <node id="FGFBP2" />
+    <node id="FIGLA" />
+    <node id="FLT1" />
+    <node id="FOSB" />
+    <node id="FZD4" />
+    <node id="GBP3" />
+    <node id="GBP7" />
+    <node id="GLI1" />
+    <node id="GPR15" />
+    <node id="GZMB" />
+    <node id="HERC5" />
+    <node id="HMGN3" />
+    <node id="HSH2D" />
+    <node id="IFI27" />
+    <node id="IFI44" />
+    <node id="IFI44L" />
+    <node id="IFI6" />
+    <node id="IFIT2" />
+    <node id="IFIT3" />
+    <node id="IGHM" />
+    <node id="IL18R1" />
+    <node id="IL18RAP" />
+    <node id="IL2RA" />
+    <node id="IRF7" />
+    <node id="ISG15" />
+    <node id="JCHAIN" />
+    <node id="KCNH7" />
+    <node id="KCNMA1" />
+    <node id="KCTD14" />
+    <node id="LANCL3" />
+    <node id="LAPTM4B" />
+    <node id="LEPR" />
+    <node id="LGALS3BP" />
+    <node id="LYPD8" />
+    <node id="MARCO" />
+    <node id="MCEMP1" />
+    <node id="MMP1" />
+    <node id="MMP10" />
+    <node id="MMP8" />
+    <node id="MMP9" />
+    <node id="MT-ND2" />
+    <node id="MX1" />
+    <node id="MX2" />
+    <node id="Metazoa_SRP" />
+    <node id="NBL1" />
+    <node id="NGFR" />
+    <node id="NR2E1" />
+    <node id="NR6A1" />
+    <node id="NTRK1" />
+    <node id="OAS1" />
+    <node id="OAS2" />
+    <node id="OAS3" />
+    <node id="OASL" />
+    <node id="OLFM4" />
+    <node id="ORM1" />
+    <node id="PAK3" />
+    <node id="PCDH1" />
+    <node id="PDZD4" />
+    <node id="PGLYRP1" />
+    <node id="PLAU" />
+    <node id="PLCD3" />
+    <node id="PML" />
+    <node id="PRF1" />
+    <node id="PRSS33" />
+    <node id="RIGI" />
+    <node id="RNF182" />
+    <node id="RNF213" />
+    <node id="RNU6-1188P" />
+    <node id="RORA" />
+    <node id="RSAD2" />
+    <node id="S100A12" />
+    <node id="S100A8" />
+    <node id="S100A9" />
+    <node id="SIGLEC1" />
+    <node id="SIK1" />
+    <node id="SLC16A1" />
+    <node id="SPDYA" />
+    <node id="SPP1" />
+    <node id="TENM1" />
+    <node id="TMPRSS2" />
+    <node id="TP53I11" />
+    <node id="TRDC" />
+    <node id="TRIM14" />
+    <node id="TRIM6" />
+    <node id="TRPM2" />
+    <node id="U3" />
+    <node id="USP18" />
+    <node id="VNN1" />
+    <node id="VNN2" />
+    <node id="XAF1" />
+    <node id="YEATS4" />
+    <node id="YES1" />
+    <node id="ZFPM2" />
+    <node id="ZNF423" />
+    <edge source="ADAMDEC1" target="CDKN1C">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="ADAMDEC1" target="IFI27">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ADAMDEC1" target="MMP8">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ADAMDEC1" target="OLFM4">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ADAMTS14" target="AREG">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ADAMTS14" target="CLDN7">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ADAMTS14" target="DDB1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ADAMTS14" target="GLI1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="AHDC1" target="ARHGEF10">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ALPL" target="MARCO">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="ALPL" target="BEX2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="APOL2" target="GBP7">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AREG" target="NTRK1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="AREG" target="CTLA4">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="AREG" target="NR2E1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="AREG" target="PRSS33">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ARHGEF10" target="SPDYA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ARHGEF10" target="IFIT3">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ARHGEF10" target="KCNMA1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ARHGEF10" target="NGFR">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ARHGEF10" target="RNF182">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ATP9A" target="FLT1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="BCL2L14" target="APOL2">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="BEX2" target="ANPEP">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="BEX2" target="RORA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BEX2" target="AHDC1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="BEX2" target="CHRNE">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="BEX2" target="FBXO39">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="BEX2" target="LGALS3BP">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="BEX2" target="OAS3">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="BEX2" target="OASL">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="BEX2" target="PML">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="BEX2" target="USP18">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="BEX2" target="YEATS4">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="BMX" target="LYPD8">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="BMX" target="RORA">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CABLES2" target="APOL6">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CABLES2" target="C1QA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CABLES2" target="FZD4">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CABLES2" target="GBP3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CABLES2" target="PRSS33">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CABLES2" target="U3">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CDKN1C" target="MMP1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CDKN1C" target="CPA3">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CDKN1C" target="ZFPM2">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CLC" target="ZFPM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="CLC" target="TRDC">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CLC" target="COL11A1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CLC" target="HERC5">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CLC" target="IFI44L">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CLC" target="IFIT2">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CLC" target="IFIT3">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CLC" target="RIGI">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CLDN7" target="EPX">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="CLNK" target="C1QA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CRISPLD2" target="CHRNE">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="CRISPLD2" target="IL18R1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="CSGALNACT1" target="CABLES2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="CST7" target="PLAU">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="CTLA4" target="FAM167B">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CTLA4" target="NBL1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CXCL6" target="ANPEP">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CXCL6" target="ATP9A">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CXCL6" target="CST7">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CXCL6" target="ENTPD3">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CXCL6" target="NR2E1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CXCL6" target="TRPM2">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CXCL6" target="ZNF423">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CYP4F22" target="IL2RA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DDB1" target="DSCC1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DDB1" target="LAPTM4B">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DDB1" target="MT-ND2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DDB1" target="NTRK1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DDB1" target="PLCD3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DDB1" target="TP53I11">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DDB1" target="KCNH7">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="DDX60" target="ISG15">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DENND5B" target="LANCL3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DENND5B" target="ATP9A">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="DENND5B" target="Metazoa_SRP">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="DHX58" target="TRIM14">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DLG5" target="PLCD3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DYSF" target="PGLYRP1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DYSF" target="TRPM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="EIF2AK2" target="FAM216B">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="ENTPD3" target="VNN1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="FAM167B" target="CSGALNACT1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="FAM167B" target="HMGN3">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="FAM167B" target="IRF7">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="FAM167B" target="KCNH7">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="FAM185A" target="RNF182">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="FAM185A" target="FOSB">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="FAM185A" target="GBP7">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="FAM185A" target="IRF7">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="FAM185A" target="MX2">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="FAM185A" target="PLCD3">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="FAM185A" target="SLC16A1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="FAM216B" target="RNF213">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="FAM216B" target="SIGLEC1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="FBXO39" target="DENND5B">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="FIGLA" target="CYP4F22">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="FIGLA" target="ARHGEF10">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="FLT1" target="JCHAIN">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="GBP3" target="APOL6">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="GBP7" target="APOL6">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="GBP7" target="FIGLA">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="GBP7" target="MMP1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="GLI1" target="CSGALNACT1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="GLI1" target="MMP9">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="GLI1" target="PGLYRP1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="GPR15" target="CABLES2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="GPR15" target="LAPTM4B">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="GPR15" target="SPP1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="GPR15" target="ADAMDEC1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="GPR15" target="DSCC1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="GPR15" target="LEPR">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="GZMB" target="PRF1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="GZMB" target="U3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="HMGN3" target="CLDN7">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="HSH2D" target="TRIM6">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="IFI27" target="XAF1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="IFI44" target="CLNK">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="IFI44" target="ISG15">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="IFI44" target="TENM1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="IFI6" target="GZMB">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="IFI6" target="HERC5">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="IFI6" target="PCDH1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="IGHM" target="RNU6-1188P">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="IGHM" target="IFI6">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="IGHM" target="TENM1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="IGHM" target="TRIM14">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="IL18R1" target="CYP4F22">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="IL18RAP" target="TRPM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="IL18RAP" target="IGHM">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="IL2RA" target="CCR3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="IL2RA" target="MMP9">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ISG15" target="DDX60">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="ISG15" target="IFIT2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="ISG15" target="MX1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="JCHAIN" target="GLI1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="JCHAIN" target="OAS1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="JCHAIN" target="RIGI">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="KCNH7" target="RORA">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="KCNMA1" target="MARCO">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="KCTD14" target="NGFR">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="LANCL3" target="Metazoa_SRP">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="LANCL3" target="ADGRG3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LANCL3" target="CLDN7">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LANCL3" target="FIGLA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LANCL3" target="KCNMA1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LANCL3" target="MMP10">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LANCL3" target="PDZD4">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LANCL3" target="MARCO">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="LANCL3" target="PRSS33">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="LEPR" target="YEATS4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="LGALS3BP" target="VNN2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LGALS3BP" target="FAM167B">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="LYPD8" target="KCNH7">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="MCEMP1" target="IL18RAP">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="MMP1" target="RNU6-1188P">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="MMP10" target="S100A9">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="MMP9" target="DYSF">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="MMP9" target="PGLYRP1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="MX1" target="DDX60">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="MX1" target="IFIT2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="MX2" target="DHX58">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="MX2" target="OASL">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="NBL1" target="ADGRG3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="NBL1" target="DLG5">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="NBL1" target="ENTPD3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="NBL1" target="IL18R1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="NBL1" target="LANCL3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="NBL1" target="VNN1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="NBL1" target="CPA3">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="NBL1" target="FZD4">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="NBL1" target="IL18RAP">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="NBL1" target="OLFM4">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="NBL1" target="PDZD4">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="NGFR" target="KCTD14">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="NGFR" target="FADS3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="NGFR" target="CDKN1C">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="NR6A1" target="FBLN2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="NR6A1" target="ANPEP">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="NR6A1" target="JCHAIN">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="NTRK1" target="YES1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="NTRK1" target="FAM185A">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="NTRK1" target="ZNF423">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="OAS1" target="IFIT2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="OAS3" target="HSH2D">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="OASL" target="XAF1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="OLFM4" target="CHRNE">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="OLFM4" target="MMP1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="ORM1" target="FIGLA">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="ORM1" target="ALPL">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ORM1" target="FLT1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="PAK3" target="CLDN7">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="PAK3" target="CSGALNACT1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="PAK3" target="CYP4F22">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="PAK3" target="EPX">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="PAK3" target="IL18R1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="PDZD4" target="CCR4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="PDZD4" target="GPR15">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="PGLYRP1" target="ENTPD3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="PLAU" target="ALPL">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="PLCD3" target="ZNF423">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="PLCD3" target="MCEMP1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="PML" target="AHDC1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="PRSS33" target="EPX">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="PRSS33" target="GBP3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="PRSS33" target="IL2RA">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="RNF182" target="GLI1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="RNF182" target="PAK3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RNF213" target="FAM216B">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="RNF213" target="LGALS3BP">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="RNF213" target="MCEMP1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RNF213" target="S100A9">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="CHRNE">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="EIF2AK2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="FBXO39">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="HERC5">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="IFI27">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="IFI44">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="IFI6">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="IRF7">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="ISG15">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="KCTD14">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="MX1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="MX2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="OAS1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="OAS3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="OASL">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="PLCD3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="PML">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="RIGI">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="SIGLEC1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="SIK1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="TMPRSS2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="TRIM14">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="TRIM6">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="USP18">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RORA" target="ADAMTS14">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="RORA" target="APOL2">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="RORA" target="CST7">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="RORA" target="DENND5B">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="RORA" target="FBLN2">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="RORA" target="LYPD8">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="RORA" target="NR2E1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="RORA" target="TP53I11">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="RORA" target="YEATS4">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="RSAD2" target="CLNK">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="S100A8" target="S100A12">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="S100A8" target="S100A9">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="S100A8" target="VNN2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="S100A9" target="BMX">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="SIK1" target="NTRK1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="SLC16A1" target="CTLA4">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SLC16A1" target="PRSS33">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SPDYA" target="ARHGEF10">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SPDYA" target="U3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TMPRSS2" target="GBP7">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TRDC" target="RSAD2">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="TRDC" target="CLNK">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="TRDC" target="IFI44">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="TRIM14" target="DHX58">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="TRIM14" target="FAM216B">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="TRIM6" target="MMP8">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TRIM6" target="MMP9">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TRPM2" target="CST7">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="U3" target="CXCL6">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="USP18" target="IFIT3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="USP18" target="BMX">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="VNN1" target="ORM1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="ZFPM2" target="CCR3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="ZFPM2" target="CLC">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="ZFPM2" target="CTLA4">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ZFPM2" target="GZMB">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ZFPM2" target="USP18">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ZNF423" target="EREG">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ZNF423" target="MCEMP1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ZNF423" target="VNN2">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

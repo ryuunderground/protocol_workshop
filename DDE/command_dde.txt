@@ -1,0 +1,12 @@
+부모 노드최대 4개로 제한
+uv run python main_ext.py \
+--device cpu \
+--ms_workers 1 \
+--perm_workers 4 \
+--train_a_expr ../data/renew_inputs/short_input.csv \
+--train_b_expr ../data/renew_inputs/long_input.csv \
+--test_expr ../data/renew_inputs/inter_input.csv \
+--edge_csvs ../data/edges/parents4/short_dde_edges.csv ../data/edges/parents4/long_dde_edges.csv \
+--out_dir results_dde/parents4 \
+--seeds 0 1 2 3 4 \
+--K_fit 2
